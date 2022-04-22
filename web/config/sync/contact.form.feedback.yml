@@ -1,0 +1,14 @@
+uuid: a42bda39-ffca-45c2-b87f-80d3d77eabe6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - annufka94@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
